@@ -1,0 +1,1 @@
+Adding and trying git commands in this read me file lmao
